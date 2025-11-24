@@ -1,4 +1,4 @@
-module github.com/Unul/Todo-gRPC-Service
+module github.com/PierreDougnac/Todo-gRPC-Service
 
 go 1.25.4
 

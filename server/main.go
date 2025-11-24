@@ -7,7 +7,7 @@ import (
 	"net"
 	"sync"
 
-	pb "github.com/Unul/Todo-gRPC-Service/proto"
+	pb "github.com/PierreDougnac/Todo-gRPC-Service/proto"
 
 	"google.golang.org/grpc"
 )
